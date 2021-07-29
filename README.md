@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![bfdev's github stats](https://github-readme-stats.vercel.app/api?username=bfdev&count_private=true)
-[br]
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-javascript-c2ad07?style=for-the-badge&logo=javascript&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/-typescript-007acc?style=for-the-badge&logo=typescript&logoColor=fff)
